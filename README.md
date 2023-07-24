@@ -1,5 +1,26 @@
 # Домашнее задание к занятию «Подъём инфраструктуры в Yandex Cloud» - Твердяков Михаил
 
+### Задание Б
+
+1. Добавил переменную для запроса токена при создании и удалении ресурсов. И переменные cloud_id и folder_id.
+
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-1.png)
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-2.png)
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-3.png)
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-9.png)
+
+2. Вывод токена командой ```yc iam create-token```. Токен в любой момент можно поменять.
+
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-4.png)
+
+3. Создание ресурсов.
+
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-5.png)
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-6.png)
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-7.png)
+![png](https://github.com/tverdyakov/7-04-Yandex-Cloud/blob/main/screenshots/Задание%20Б-8.png)
+---
+
 ### Задание 1 
 
 **Выполните действия, приложите скриншот скриптов, скриншот выполненного проекта.**
